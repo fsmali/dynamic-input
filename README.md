@@ -1,5 +1,7 @@
 # Dynamic Table Editor Project
 
+**Live Demo:** [Dynamic Table Editor](https://dynamicinput.netlify.app/)
+
 Welcome to the Dynamic Table Editor Project! This project provides a dynamic table editor implemented in React and TypeScript. It allows users to create, edit, delete, and manage tables and their rows dynamically.
 
 ## Table of Contents
